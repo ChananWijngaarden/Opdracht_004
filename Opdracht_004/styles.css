@@ -1,0 +1,27 @@
+body {
+     font-size: 15px; 
+     line-height: 1.8em;
+    }
+    .class-for-index {
+        color:darkmagenta;
+        background-color:green;
+    }
+    .class-for-page {
+        color: blue;
+        background-color:blueviolet;
+    }
+    .class-for-page2 {
+        color:tomato;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 22px;
+        background-color:maroon;
+    }
+.black-border {
+    border: 5px solid black;
+}
+#green-background {
+    background-color: green;
+}
+p {
+    font-size: 29px;
+}
